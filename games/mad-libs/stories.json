@@ -1,0 +1,71 @@
+{
+  "Space Adventure": {
+    "template": "In the year {number}, a {adjective} spacecraft called the {noun1} set out on a mission to explore the {adjective2} galaxy.\nCaptain {name} and their crew of {number2} {plural_noun} were ready for anything.\nSuddenly, they encountered a {adjective3} {noun2} floating in space!\nThe {noun2} began to {verb} towards them at {number3} miles per hour.\nQuick thinking Captain {name} decided to {verb2} the ship's {noun3} to escape.\nThe crew celebrated by having a {adjective4} party with {plural_noun2} and {liquid} to drink.",
+    "prompts": {
+      "number": "Enter a year in the future",
+      "adjective": "Enter an adjective",
+      "noun1": "Enter a noun (ship name)",
+      "adjective2": "Enter another adjective",
+      "name": "Enter a name",
+      "number2": "Enter a number",
+      "plural_noun": "Enter a plural noun (crew members)",
+      "adjective3": "Enter an adjective",
+      "noun2": "Enter a noun",
+      "verb": "Enter a verb",
+      "number3": "Enter a speed number",
+      "verb2": "Enter a verb",
+      "noun3": "Enter a noun (ship part)",
+      "adjective4": "Enter an adjective",
+      "plural_noun2": "Enter a plural noun",
+      "liquid": "Enter a type of liquid"
+    }
+  },
+  "Fairy Tale": {
+    "template": "Once upon a {time_word}, there lived a {adjective} {noun1} in a {adjective2} {place}.\nEvery {time_period}, they would {verb1} to the nearby {place2} to collect {plural_noun}.\nOne day, they met a {adjective3} {creature} who offered them three {plural_noun2}.\nThe {noun1} decided to {verb2} the {plural_noun2} with their {adjective4} friend, {name}.\nTogether, they used the {plural_noun2} to create a magical {noun2} that could {verb3} {adverb}.",
+    "prompts": {
+      "time_word": "Enter a time word (like day, night, etc.)",
+      "adjective": "Enter an adjective",
+      "noun1": "Enter a noun (character)",
+      "adjective2": "Enter an adjective",
+      "place": "Enter a place",
+      "time_period": "Enter a time period (day, week, etc.)",
+      "verb1": "Enter a verb",
+      "place2": "Enter another place",
+      "plural_noun": "Enter a plural noun",
+      "adjective3": "Enter an adjective",
+      "creature": "Enter a magical creature",
+      "plural_noun2": "Enter another plural noun",
+      "verb2": "Enter a verb",
+      "adjective4": "Enter an adjective",
+      "name": "Enter a name",
+      "noun2": "Enter a noun",
+      "verb3": "Enter a verb",
+      "adverb": "Enter an adverb"
+    }
+  },
+  "Detective Story": {
+    "template": "Detective {name} had been working on the case of the missing {noun1} for {number} {time_period}.\nThe {adjective} investigator noticed a {adjective2} {noun2} at the crime scene, along with {number2} {plural_noun}.\nFollowing the clues, they {verb1} to the nearby {place}, where they discovered a {adjective3} suspect {verb2} behind a {noun3}.\nThe suspect was wearing a {adjective4} {clothing} and holding a {object}.\nUsing their {adjective5} skills, Detective {name} solved the case while {verb3} {adverb}.",
+    "prompts": {
+      "name": "Enter a detective name",
+      "noun1": "Enter a noun (missing item)",
+      "number": "Enter a number",
+      "time_period": "Enter a time period (days, weeks, etc.)",
+      "adjective": "Enter an adjective",
+      "adjective2": "Enter an adjective",
+      "noun2": "Enter a noun",
+      "number2": "Enter a number",
+      "plural_noun": "Enter a plural noun",
+      "verb1": "Enter a verb (past tense)",
+      "place": "Enter a place",
+      "adjective3": "Enter an adjective",
+      "verb2": "Enter a verb ending in -ing",
+      "noun3": "Enter a noun",
+      "adjective4": "Enter an adjective",
+      "clothing": "Enter an article of clothing",
+      "object": "Enter an object",
+      "adjective5": "Enter an adjective",
+      "verb3": "Enter a verb",
+      "adverb": "Enter an adverb"
+    }
+  }
+}

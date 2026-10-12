@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Personal data created when the programs run
+contacts.json
+contacts.json.bak
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
